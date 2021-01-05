@@ -1276,6 +1276,9 @@ footer .social-links li:first-child {
 .seach-button-text{
 	font-size: 12px;
 }
+.social-links:first-child{
+	margin-left:200px;
+}
 .social-link{
 	margin-left:125px;
 	max-width:1100px;
@@ -1392,7 +1395,7 @@ footer .social-links li:first-child {
 	text-align: center;
 }
 .header-github{
-	margin-left: 400px;
+	margin-left: 250px;
 	text-align: right;
 }
 .port-card-title{
@@ -1449,7 +1452,7 @@ footer .social-links li:first-child {
 
 .main{
 	margin-top: 200px;
-	margin-bottom: 500px;
+	margin-bottom: 400px;
 }
 .github-title-link{
 	margin-left: 30px;
